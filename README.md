@@ -7,3 +7,5 @@ Added a layout image in PNG format
 GND to chassis earth point deleted. 
 Added DIYLC boards file
 Added boards images PDF and PNG format
+Added DIYLC full layout file
+Added full layout images PDF and PNG format
