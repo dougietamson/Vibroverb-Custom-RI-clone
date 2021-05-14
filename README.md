@@ -9,3 +9,4 @@ Added DIYLC boards file
 Added boards images PDF and PNG format
 Added DIYLC full layout file
 Added full layout images PDF and PNG format
+Added Service and User manuals PDFs
