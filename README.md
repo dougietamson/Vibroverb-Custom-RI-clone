@@ -1,4 +1,5 @@
 # Vibroverb-Custom-RI-clone
+<br>A project to build a DIY version of an amp based on a '64 Vibroverb Custom, the 2 circuit boards are in DIYLC format. Info to build the transformers and chokes will follow.</br>
 <br>Schematics/layouts/BOM </br>
 <br>Added a BOM pdf file </br>
 <br>Added a layout image in PDF format v1</br>
